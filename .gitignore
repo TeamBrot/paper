@@ -1,0 +1,16 @@
+.vscode
+*.mp4
+*.svg
+*.dpth
+*.md5
+*.log
+*.aux
+*.auxlock
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.out
+*.toc
+.ipynb_checkpoints
+svg-inkscape/
