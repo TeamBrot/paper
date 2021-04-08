@@ -1,6 +1,6 @@
 # Brot-Paper
 
-![Brot banner](brot-icup.jpg)
+[![](brot-icup.jpg)](https://teambrot.github.io/)
 
 ## Description
 
